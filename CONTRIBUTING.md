@@ -152,10 +152,6 @@ The preferred way to commit your changes is to:
 - introduce your changes, mainly to `.md` files;
 - commit changes to the same feature branch.
 
-Example:
-
-<img src="https://habrastorage.org/webt/1f/fa/ob/1ffaobyn99cuc58fa19pvse_pvw.png" width="600" height="300" />
-
 ## Issues
 
 - If you want to add something new to the course content you should start with creating an issue with the label `enhancement` where you need to describe your idea.
