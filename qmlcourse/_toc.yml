@@ -197,18 +197,18 @@
     # - url: https://github.com/quantum-ods/qmlcourse/raw/web-page-prod/latex/qmlcourse.pdf
     #   title: Скачать pdf книгу / Download pdf book
 
-# :en:
+# # :en:
 
-- part: Intro
-  chapters:
-    - file: book/intro/en/intro.md
-      title: 🟦 About quantum computers
-    - file: book/intro/en/prerequisite.md
-      title: ⬜ Prerequisite
+# - part: Intro
+#   chapters:
+#     - file: book/intro/en/intro.md
+#       title: 🟦 About quantum computers
+#     - file: book/intro/en/prerequisite.md
+#       title: ⬜ Prerequisite
 
-- part: Linear Algebra and Numpy
-  chapters:
-    - file: book/linalg/en/linalg_intro.md
-      title: ⬜ About
-    - file: book/linalg/en/vectors.md
-      title: 🟦 Vectors
+# - part: Linear Algebra and Numpy
+#   chapters:
+#     - file: book/linalg/en/linalg_intro.md
+#       title: ⬜ About
+#     - file: book/linalg/en/vectors.md
+#       title: 🟦 Vectors
