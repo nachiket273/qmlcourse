@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 
-title: "Quantum Machine Learning Course"
+title: "Курс по квантовому машинному обучению"
 version: 1.0
 date-released: 2021-12-17
 url: "https://github.com/quantum-ods/qmlcourse"
@@ -8,8 +8,6 @@ url: "https://github.com/quantum-ods/qmlcourse"
 authors:
 - family-names: "Sinchenko"
   given-names: "Semyon"
-- family-names: "Kashnitsky"
-  given-names: "Yury"
 - family-names: "vvssttkk"
   given-names: "vvssttkk"
 - family-names: "Bazhanov"
