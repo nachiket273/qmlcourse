@@ -1,6 +1,6 @@
 <img src="./qmlcourse/logo.svg" align="left" width="178" height="178"></img>
 
-# QMLCourse
+# `QMLCourse` (категорически русская версия)
 
 <a href="https://quantum-ods.github.io/qmlcourse/">
     <img alt="badge_website_jb" src="https://img.shields.io/badge/book-nightly--build-blueviolet?style=for-the-badge">
@@ -29,41 +29,33 @@
 
 </br>
 
-> **Note**
-> * full RUSSIAN lang version
-> * eng version in progress (if u want to help visit [issue #399](https://github.com/quantum-ods/qmlcourse/issues/399) & [contributing file](./CONTRIBUTING.md)
+## Помощь в развитии
 
-## Contributing
+В файле [CONTRIBUTING.md](./CONTRIBUTING.md) все детали и правила.
 
-Refer to [Contributing Guide](./CONTRIBUTING.md) for the definition of all contributor roles.
+### Обсуждения и вопросы
 
-### Discussions & Issues
+Идеи, предложения, замечания и т.п. можно указать во вкладке [discussions](https://github.com/quantum-ods/qmlcourse/discussions). Также можете воспользоваться вкладкой [issues](https://github.com/quantum-ods/qmlcourse/issues).
 
-Some ideas, suggestions, remarks, etc. you can write on the [discussions](https://github.com/quantum-ods/qmlcourse/discussions) page. Also, we have [issues](https://github.com/quantum-ods/qmlcourse/issues).
-
-## Course Program
+## Программа
 
 ![](./qmlcourse/_static/index/program.svg)
 
-### How to read the schema?
+### Как читать схему?
 
-- **BLUE** &mdash; introductory blocks covering prerequisites for the rest of the course;
-- **GREEN** &mdash; the main flow of the course with simple introductory lectures on QC and QML;
-- **YELLOW** &mdash; highly recommended facultative lectures which explain additional topics about QML and QC;
-- **RED** &mdash; advanced-level lectures that deeply explain the math and the principles underlying QML.
-- **WHITE** &mdash; career in quantum computations and quantum QML
+- **BLUE** &mdash; вводные блоки, охватывающие предпосылки для остальной части курса;
+- **GREEN** &mdash; основной поток курса с простыми вводными лекциями по QC и QML;
+- **YELLOW** &mdash; факультативные лекции, в которых раскрываются дополнительные темы по QML и QC;
+- **RED** &mdash; продвинутый уровень, глубоко объясняющие математику и принципы, лежащие в основе QML.
+- **WHITE** &mdash; арьера в области квантовых вычислений и квантового QML
 
-## Team
+## Команда
 
-The main authors, reviewers, editors, DevOps you can find [here](https://quantum-ods.github.io/qmlcourse/book/authors.html).
+Основные авторы, рецензенты, редакторы, тех часть можете найти [здесь](https://quantum-ods.github.io/qmlcourse/book/authors.html).
 
-Content generators, to be agreed with [@SemyonSinchenko](https://github.com/SemyonSinchenko). See [Issues](https://github.com/quantum-ods/qmlcourse/issues) to pick up one of the open tasks and for updates; this list is not intended to be always up-to-date.
+## ODS
 
-Also, all authors for some updates are participants special channel into community [ods.ai](https://ods.ai), join filling the form and write your nickname to orgs to add you to the channel.
-
-## Join ODS
-
-To join the matrix ODS-community you need to fill the form into the [ods.ai page](https://ods.ai/tracks/odsmatrix101). If long time your request unaccepted contact us via [email](mailto:qmlcourse.ods@gmail.com).
+Чтобы присоединиться ознакомтесь со <https://ods.ai/tracks/mattermost>.
 
 ## Похожие проекты
 
@@ -79,6 +71,6 @@ To join the matrix ODS-community you need to fill the form into the [ods.ai page
 
     Подходит для начинающих. Лекции разбиты на короткие части, конспекты прокомментированы и проиллюстрированы. Базируется на открытом курсе CERN introductory lectures on quantum computing
 
-## Legal Issues
+----
 
-You can communicate with course orgs via [email](mailto:qmlcourse.ods@gmail.com). Please email us first if you found an intellectual property rights violation in the course materials or if you want to use the course materials, not under the CC-BY-4.0 License.
+[Написать письмо](mailto:qmlcourse.ods@gmail.com)
