@@ -1,14 +1,14 @@
 (authors)=
 
-# Список авторов курса / Course authors
+# Список авторов курса
 
-## Создатели курса / Co-founders
+## Создатели курса
 
 - [Синченко Семён / Sinchenko Semyon](https://github.com/SemyonSinchenko)
 - [Кашницкий Юрий / Kashnitsky Yury](https://github.com/Yorko)
 - [vvssttkk](https://github.com/vvssttkk)
 
-## Основные авторы / The main authors
+## Основные авторы
 
 - [Бажанов Дмитрий / Bazhanov Dmitry](https://github.com/dbazhanov)
 - [Березутский Александр / Berezutskii Aleksandr](https://github.com/meandmytram)
@@ -30,7 +30,7 @@
 - [Щуцкий Никита / Shchutski Mikita](https://github.com/magnus-the-collectioner)
 - [Эль-Айясс Дани / El-Ayyass Dani](http://github.com/dayyass)
 
-## Основные ревьюеры / The main reviewers
+## Основные ревьюеры
 
 - [Дихтяр Иван / Dikhtyar Ivan](https://github.com/sustxh)
 - [Желтоножский Евгений / Zheltonozhskiy Evgeniy](https://github.com/Randl)
@@ -40,13 +40,13 @@
 - [Тезиков Роман / Tezikov Roman](https://github.com/TezRomacH)
 - [vvssttkk](https://github.com/vvssttkk)
 
-## Техническая поддержка / Technical support
+## Техническая поддержка
 
 - [Коржов Дмитрий / Korzhov Dmitry](https://github.com/dkorzhov)
 - [Пронькин Алексей / Pronkin Alexey](https://github.com/alexey-pronkin)
 - [vvssttkk](https://github.com/vvssttkk)
 
-## Редакторы / Editors
+## Редакторы
 
 - [Маркова Наталья / Markova Natalya](https://github.com/nsmarkova)
 - [Пацкова Екатерина / Patskova Ekaterina](https://github.com/patsko8a)
