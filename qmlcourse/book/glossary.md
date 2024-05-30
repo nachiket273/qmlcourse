@@ -1,6 +1,6 @@
 (glossary)=
 
-# Глоссарий / Glossary
+# Словарь
 
 *Scroll down for English version*
 
