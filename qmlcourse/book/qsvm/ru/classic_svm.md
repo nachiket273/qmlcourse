@@ -16,7 +16,7 @@ kernelspec:
 
 Автор(ы):
 
-- [Кашницкий Юрий](https://github.com/yorko)
+- ODS
 
 
 ## Описание лекции
