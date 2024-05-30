@@ -3,10 +3,10 @@
 # `QMLCourse` (категорически русская версия)
 
 <a href="https://quantum-ods.github.io/qmlcourse/">
-    <img alt="badge_website_jb" src="https://img.shields.io/badge/book-nightly--build-blueviolet?style=for-the-badge">
+    <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
 </a>
 <a href="https://ods.ai/tracks/qmlcourse">
-    <img alt="badge_ods_page" src="https://img.shields.io/badge/ods.ai-course%20page-critical?style=for-the-badge">
+    <img alt="badge_ods_page" src="https://img.shields.io/badge/ods.ai-страница%20курса-critical?style=for-the-badge">
 </a>
 <!-- <a href="https://github.com/quantum-ods/qmlcourse/raw/web-page-prod/latex/qmlcourse.pdf">
     <img alt="badge_download_pdf_book" src="https://img.shields.io/badge/pdf%20book-download-information?style=for-the-badge"> -->
