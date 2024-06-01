@@ -1,6 +1,6 @@
 <img src="./qmlcourse/logo.svg" align="left" width="178" height="178"></img>
 
-# `QMLCourse` (категорически русская версия)
+# `Курс по КМО` (категорически русская версия)
 
 <a href="https://quantum-ods.github.io/qmlcourse/">
     <img alt="badge_website_jb" src="https://img.shields.io/badge/книга-основная--сборка-blueviolet?style=for-the-badge">
